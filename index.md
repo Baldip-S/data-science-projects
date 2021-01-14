@@ -1,3 +1,6 @@
-# [Data analysis](da.md)  
-# [Advanced data analysis](ada.md)  
-# [Data science projects](dsp.md)  
+# [Data analysis](da.md)
+---
+# [Advanced data analysis](ada.md)
+---
+# [Data science projects](dsp.md) 
+---
