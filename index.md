@@ -1,2 +1,3 @@
-[#Blood pressure](/data-analysis/bp.html)  
-[Another page](another-page.md)
+[Data analysis](da.md)  
+[Advanced data analysis](ada.md)
+[Data science projects](dsp.md)
