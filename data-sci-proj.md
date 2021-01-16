@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-## [NYC taxi tip prediction](/data-sci-proj/taxi.html)
-___
+
 # Data science projects
 ---
+## [NYC taxi tip prediction](/data-sci-proj/taxi.html)
+___
 ## [Auckland bicycle count and rainfall](/data-sci-proj/bicycle.html)
 ___
 ## [Game of Thrones - sentiment analysis](/data-sci-proj/gameofthrones.html)
