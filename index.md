@@ -5,7 +5,7 @@ Explorator descriptive data analysis and data modelling using simple linear regr
 ---
 # [Advanced data analysis](adv-data-analysis.md)
 
-Data analysis with further techniques and commentary with R programming. Concepts covered such as simulation, generalised linear models, non-linear models, log-linear models and logistic regression models.
+Data analysis with further techniques and commentary with R programming. Concepts covered include simulation, generalised linear models, non-linear models, log-linear models and logistic regression models.
 
 ---
 # [Data science projects](data-sci-proj.md) 
