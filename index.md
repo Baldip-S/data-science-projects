@@ -1,6 +1,6 @@
 # [Data analysis](data-analysis.md)
 
-Explorator descriptive data analysis and data modelling using simple linear regression and genearlised linear regression. Concepts include: continuous variables and factor variables, one-way and two-way analysis of variance and analysis of co-variance, multiple regression, and model selection.
+Exploratory and descriptive data analysis and data modelling using simple linear regression and genearlised linear regression. Concepts include: continuous variables and factor variables, one-way and two-way analysis of variance and analysis of co-variance, multiple regression, and model selection.
 
 ---
 # [Advanced data analysis](adv-data-analysis.md)
