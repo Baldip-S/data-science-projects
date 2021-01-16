@@ -4,13 +4,13 @@ layout: default
 
 # Advanced data analysis
 ---
+## [Quasars](/adv-data-analysis/quasar.html)
+___
 ## [American football leagues - AFL vs NFL](/adv-data-analysis/fl.html)
 ___
-## [Billboard exposure](/data-analysis/bb.html)
+## [Billboard exposure](/adv-data-analysis/bb.html)
 ___
-## [Quasar](/data-analysis/quasar.html)
-___
-## [Blood pressure therapy](/data-analysis/machine.tml)
+## [Performance of computers](/adv-data-analysis/machine.html)
 ___
 
 [back](./)
